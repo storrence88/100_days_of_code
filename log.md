@@ -6,4 +6,4 @@
 
 **Thoughts:** My goal is to learn React and learn how to build React Native mobile applications. So far I just started with very simple React Code. I'm still trying to get used to the syntax and using JSX. It's very interesting tho! More to come!
 
-**Link to work:** [100 Days of Code: Day 0](https://www.github.com/storrence88/100_days_of_code.com)
+**Link to work:** [100 Days of Code: Day 0](https://github.com/storrence88/100_days_of_code)
