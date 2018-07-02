@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/steven/coding_101/udemy/react_native/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/steven/coding_101/udemy/react_native/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/steven/coding_101/udemy/react_native/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTView.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/steven/coding_101/udemy/react_native/albums/node_modules/react-native/React/Views/UIView+React.h
