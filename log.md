@@ -33,3 +33,20 @@
 **Thoughts:** Today was huge! Made significant leaps with my react native project. I feel like this was the perfect project for me to work on for the 100 Days of Coding challenge. I am solidifying the concepts I learned while taking the MEAN stack at Coding Dojo while challenging myself with enough new material. Excited for tomorrow's challenge!
 
 **Link to work:** [100 Days of Code: Day 2](https://github.com/storrence88/100_days_of_code/tree/master/day_2)
+
+
+### Day 3: Tuesday, July 3rd, 2018
+
+**Today's Progress**: 
+- - Only use state with class based components. Functional components do not have access to state.
+- Using the map method to iterate through the array of album objects
+- Learned when referencing javascript in JSX, use curly braces
+- Learned how to utilize props to communicate from the parent component to the child component
+- Passing components as props
+- I learned A LOT about positioning of components and elements for mobile which include Flex-box.
+- I learned about rendering images with React Native. (An image will not expand by default to fill the space around it
+- I learned how to destructure information so that my code looks clean and easier to read.
+
+**Thoughts:** Another big day! I feel like I'm learning so much so fast that I'm concerned if I'll be able to remember it all. I guess the best way to keep all of it fresh to keep building projects and using the tools I learn. 
+
+**Link to work:** [100 Days of Code: Day 3](https://github.com/storrence88/100_days_of_code/tree/master/day_3)
