@@ -1,0 +1,96 @@
+{
+    "albums": [
+        {
+            "title": "Please Please Me",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Please-Me-Beatles/dp/B01929HNF4/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61uZHGx6mHL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "With The Beatles",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Beatles/dp/B01929HZVQ/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51DSSSE4AyL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "A Hard Day's Night",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Hard-Days-Night-Beatles/dp/B01929HNOK/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61EBR1WqnBL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Beatles for Sale",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Beatles-Sale/dp/B01929I8RQ/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/517qi4b05uL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Help!",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Help-Beatles/dp/B01929H4VM/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KltVVOFoL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Rubber Soul",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Rubber-Soul-Beatles/dp/B01929HXIG/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61spT89nxEL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Revolver",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Revolver-Beatles/dp/B01929I1V4/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Y1jDpMZnL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Sgt. Pepper's Lonely Hearts Club Band",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Sgt-Peppers-Lonely-Hearts-Club/dp/B01929I77M/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/617W5kgNY-L._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Magical Mystery Tour",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Magical-Mystery-Tour-Beatles/dp/B01929HVT2/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71NnyPLJ2vL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "The Beatles (The White Album)",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Beatles-White-Album/dp/B01929IAQK/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/21yyC7DZO5L._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Yellow Submarine",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Yellow-Submarine-Beatles/dp/B01929HPCU/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61sBxjdG%2BzL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Abbey Road",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Abbey-Road-Beatles/dp/B01929HGH4/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61i4ik3IBjL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        },
+        {
+            "title": "Let It Be",
+            "artist": "The Beatles",
+            "url": "https://www.amazon.com/Let-Be-Beatles/dp/B01929IA56/",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51qsG3R0ThL._SS500.jpg",
+            "thumbnail_image": "https://ae01.alicdn.com/kf/HTB1i4NUIVXXXXa4apXXq6xXFXXXV/The-Beatles-Canvas-Set-Oil-Painting-Pop-Art-Portrait-Celebrity-Bedroom-Decor-Painting-Oil-Living-Room.jpg_50x50.jpg"
+        }
+    ]
+}
+
