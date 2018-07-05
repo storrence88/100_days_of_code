@@ -1,7 +1,5 @@
 # 100 Days Of Code - Log
 
-# 100 Days Of Code - Log
-
 ### Day 0: Saturday, June 30th, 2018
 
 **Today's Progress**: Starting to learn React. Uploaded my first 100 Days of Code Challenge!
@@ -35,7 +33,7 @@
 **Link to work:** [100 Days of Code: Day 2](https://github.com/storrence88/100_days_of_code/tree/master/day_2)
 
 
-### Day 3: Tuesday, July 3rd, 2018
+### Day 3: Wednesday, July 4th, 2018
 
 **Today's Progress**: 
 - - Only use state with class based components. Functional components do not have access to state.
@@ -50,3 +48,18 @@
 **Thoughts:** Another big day! I feel like I'm learning so much so fast that I'm concerned if I'll be able to remember it all. I guess the best way to keep all of it fresh to keep building projects and using the tools I learn. 
 
 **Link to work:** [100 Days of Code: Day 3](https://github.com/storrence88/100_days_of_code/tree/master/day_3)
+
+
+### Day 4: Thursday, July 5th, 2018
+
+**Today's Progress**: 
+- I learned how to make my application scroll by importing and using ScrollView
+- How to create button component and style it
+- Making the button component have a UX response when clicked by fading the opacity
+- How to make the button component reusable by utilizing props
+- Producing an action when a button is pressed by the user using the prop onPress
+- In order to produce that action, I needed to import the Linking library and use the built in method openURL to open the url provided by my Beatles API
+
+**Thoughts:** I feel really good about completing this simple React Native project. Looking forward to using my skills and building another application very soon!
+
+**Link to work:** [100 Days of Code: Day 4](https://github.com/storrence88/100_days_of_code/tree/master/day_3)
