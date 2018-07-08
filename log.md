@@ -62,4 +62,17 @@
 
 **Thoughts:** I feel really good about completing this simple React Native project. Looking forward to using my skills and building another application very soon!
 
-**Link to work:** [100 Days of Code: Day 4](https://github.com/storrence88/100_days_of_code/tree/master/day_3)
+**Link to work:** [100 Days of Code: Day 4](https://github.com/storrence88/100_days_of_code/tree/master/day_4)
+
+### Day 5: Saturday, July 7th, 2018
+
+**Today's Progress**: 
+- Outlined the challenges for this app
+- Will need an input component to take user text
+- Created a new app
+- Created a src folder that will hold all of the components for the main app
+- Deleted the original App.js file
+
+**Thoughts:** After completing my first react native app, I feel like this second app will be slightly easier to create. There will be a few new challenges, however, such as using Firecode for the server/database and having that connect with the app. Also, I will need to figure out how to do validations in react native.
+
+**Link to work:** [100 Days of Code: Day 5](https://github.com/storrence88/100_days_of_code/tree/master/day_5)
