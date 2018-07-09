@@ -64,6 +64,7 @@
 
 **Link to work:** [100 Days of Code: Day 4](https://github.com/storrence88/100_days_of_code/tree/master/day_4)
 
+
 ### Day 5: Saturday, July 7th, 2018
 
 **Today's Progress**: 
@@ -76,3 +77,18 @@
 **Thoughts:** After completing my first react native app, I feel like this second app will be slightly easier to create. There will be a few new challenges, however, such as using Firecode for the server/database and having that connect with the app. Also, I will need to figure out how to do validations in react native.
 
 **Link to work:** [100 Days of Code: Day 5](https://github.com/storrence88/100_days_of_code/tree/master/day_5)
+
+
+### Day 6: Sunday, July 8th, 2018
+
+**Today's Progress**: 
+- Made use of components from past projects
+- Copied and pasted them into our current project
+- Instead of having multiple import statements at the the top of the page, I used a trick to import and export multiple components in one line of code “export * from …”
+- The only catch is you can’t export default at the bottom of a component, you have to export an object with a key and value
+- Created a Firebase account
+- Within Firebase, created a sign in method for my application
+
+**Thoughts:** Learning how to reuse components is going to be VERY valuable in the future when creating more apps. It's a very efficient way to stay DRY. Getting to work with Firebase is also very interesting. I've worked with SQL and NoSQL databases before but I've never had a chance to work with a database that is completely online. Looking forward to completing more tomorrow!
+
+**Link to work:** [100 Days of Code: Day 6](https://github.com/storrence88/100_days_of_code/tree/master/day_6)
