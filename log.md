@@ -92,3 +92,13 @@
 **Thoughts:** Learning how to reuse components is going to be VERY valuable in the future when creating more apps. It's a very efficient way to stay DRY. Getting to work with Firebase is also very interesting. I've worked with SQL and NoSQL databases before but I've never had a chance to work with a database that is completely online. Looking forward to completing more tomorrow!
 
 **Link to work:** [100 Days of Code: Day 6](https://github.com/storrence88/100_days_of_code/tree/master/day_6)
+
+
+### Day 7: Monday, July 9th, 2018
+
+**Today's Progress**: 
+- Worked through the algorithms and data structures in a freeCodeCamp online lesson
+
+**Thoughts:** Decided to change it up a little today. Worked on a few easy algorithms and data structures in a freeCodeCamp lesson.
+
+**Link to work:** [100 Days of Code: Day 7](https://github.com/storrence88/100_days_of_code/tree/master/day_7)
