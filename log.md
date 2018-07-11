@@ -102,3 +102,13 @@
 **Thoughts:** Decided to change it up a little today. Worked on a few easy algorithms and data structures in a freeCodeCamp lesson.
 
 **Link to work:** [100 Days of Code: Day 7](https://github.com/storrence88/100_days_of_code/tree/master/day_7)
+
+
+### Day 8: Tuesday, July 10, 2018
+
+**Today's Progress**: 
+- Worked through the algorithms and data structures in a freeCodeCamp online lesson
+
+**Thoughts:** Did some more algorithms before leaving for a ReactJS meetup today.
+
+**Link to work:** [100 Days of Code: Day 8](https://github.com/storrence88/100_days_of_code/tree/master/day_8)
