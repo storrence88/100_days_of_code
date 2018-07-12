@@ -104,7 +104,7 @@
 **Link to work:** [100 Days of Code: Day 7](https://github.com/storrence88/100_days_of_code/tree/master/day_7)
 
 
-### Day 8: Tuesday, July 10, 2018
+### Day 8: Tuesday, July 10th, 2018
 
 **Today's Progress**: 
 - Worked through the algorithms and data structures in a freeCodeCamp online lesson
@@ -112,3 +112,14 @@
 **Thoughts:** Did some more algorithms before leaving for a ReactJS meetup today.
 
 **Link to work:** [100 Days of Code: Day 8](https://github.com/storrence88/100_days_of_code/tree/master/day_8)
+
+
+### Day 9: Wednesday, July 11th, 2018
+
+**Today's Progress**: 
+- Attended the Thinkful meetup at Treehouse in Addison today.
+- We built a Twitter Bot that tracks certain words from a user's tweets and will reply with a custom message reply to that user.
+
+**Thoughts:** It seems like there might be a lot of uses for the Twitter API. I could it seem it being used to gather for information or maybe for mass replies.
+
+**Link to work:** [100 Days of Code: Day 9](https://github.com/storrence88/100_days_of_code/tree/master/day_9)
