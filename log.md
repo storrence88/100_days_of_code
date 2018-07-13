@@ -123,3 +123,14 @@
 **Thoughts:** It seems like there might be a lot of uses for the Twitter API. I could it seem it being used to gather for information or maybe for mass replies.
 
 **Link to work:** [100 Days of Code: Day 9](https://github.com/storrence88/100_days_of_code/tree/master/day_9)
+
+
+### Day 10: Thursday, July 12th, 2018
+
+**Today's Progress**: 
+- Attended a Virtual/Augmented Reality meet up in Oaklawn.
+- Worked through more algorithms and javascript lessons on freeCodeCamp
+
+**Thoughts:** It seems like there is a huge demand for AR in the commerical market and VR more in the enterprise field. I discovered today that AR/VR can be used for training and is already being implimented by Walmart and KFC for training it's employees. There is also demand for AR/VR in the military and also in the field of education.
+
+**Link to work:** [100 Days of Code: Day 10](https://github.com/storrence88/100_days_of_code/tree/master/day_10)
