@@ -134,3 +134,18 @@
 **Thoughts:** It seems like there is a huge demand for AR in the commerical market and VR more in the enterprise field. I discovered today that AR/VR can be used for training and is already being implimented by Walmart and KFC for training it's employees. There is also demand for AR/VR in the military and also in the field of education.
 
 **Link to work:** [100 Days of Code: Day 10](https://github.com/storrence88/100_days_of_code/tree/master/day_10)
+
+
+
+### Day 11: Saturday, July 14th, 2018
+
+**Today's Progress**: 
+- Incorporated a component called text input today. It allows a user to input text in a form like field. 
+- There are some difficulties with the text input component such as style issues and default width and height settings.
+- Set the state with the text input to update on text change
+- The reason for this is because React Native doesn’t allow for information from an input field like we would in a web application. We have to use a sort of roundabout way to get to the text through explicitly setting the state
+- Added Styles to the text input
+
+**Thoughts:** Decide to resume work on my second React Native project. Excited about the new components involved in this project. I'm ready to start using Firebase and connect it with my app. I'll also need to make my way to the Apple store sometime this week and purchase a USB-C to Lighting connector so I can start testing these apps on my phone instead of just exclusively on the simulator.
+
+**Link to work:** [100 Days of Code: Day 11](https://github.com/storrence88/100_days_of_code/tree/master/day_11)
