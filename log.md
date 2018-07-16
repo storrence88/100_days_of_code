@@ -149,3 +149,15 @@
 **Thoughts:** Decide to resume work on my second React Native project. Excited about the new components involved in this project. I'm ready to start using Firebase and connect it with my app. I'll also need to make my way to the Apple store sometime this week and purchase a USB-C to Lighting connector so I can start testing these apps on my phone instead of just exclusively on the simulator.
 
 **Link to work:** [100 Days of Code: Day 11](https://github.com/storrence88/100_days_of_code/tree/master/day_11)
+
+
+### Day 12: Sunday, July 15th, 2018
+
+**Today's Progress**: 
+- Began working on my portfolio
+- Using just HTML5, CSS3, and Bootstrap right now
+- Planning on redoing it in React later
+
+**Thoughts:** This is an exciting project for me! I feel that my skills are pretty good with HTML and CSS so I feel like I know what I'm doing for once! This is just the first part of my portfolio. I am referencing code from all over and writing my own as well. Hoping to make this website responsive and interactive.
+
+**Link to work:** [100 Days of Code: Day 12](https://github.com/storrence88/portfolio)
