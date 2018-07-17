@@ -179,3 +179,17 @@
 **Thoughts:** Well, the portfolio page is coming along slowly but surely. I am learning a lot about HTML/CSS/and Bootstrap that I didn't quite master before. Just little tips and tricks. I think this is my favorite part of programming because it really allows me to exercise my creative half. I spent most of the day tweaking and making tiny adjustments to my website trying to get it just right. Looking forward to making another site using primarily React but in the meantime, I need to complete this one.
 
 **Link to work:** [100 Days of Code: Day 13](https://github.com/storrence88/portfolio)
+
+
+### Day 14: Tuesday, July 17th, 2018
+
+**Today's Progress**: 
+- Work continues on the portfolio
+- Today was a lot of responsive design
+- Instead of using px for some of the CSS, I used em and rem and %
+- I also made use of media queries which are really cool for controlling your components size up to a given window size
+- Added more icons near the bottom of the screen in the Connect section
+
+**Thoughts:** Building this portfolio was fun but tedius. It's A LOT of code for just HTML, CSS, and Bootstrap. I can see why there are frameworks for just the front end to help reduce clutter and produce results quicker. Next step will be to add the links and deploy the website to a domain! Exciting!
+
+**Link to work:** [100 Days of Code: Day 14](https://github.com/storrence88/portfolio)
