@@ -161,3 +161,21 @@
 **Thoughts:** This is an exciting project for me! I feel that my skills are pretty good with HTML and CSS so I feel like I know what I'm doing for once! This is just the first part of my portfolio. I am referencing code from all over and writing my own as well. Hoping to make this website responsive and interactive.
 
 **Link to work:** [100 Days of Code: Day 12](https://github.com/storrence88/portfolio)
+
+
+### Day 13: Monday, July 16th, 2018
+
+**Today's Progress**: 
+- Continued working on my portfolio
+- Becoming more familiar with Bootstrap 4
+- Used class "container-fluid"
+- Figured out how `data-toggle="collapsed"` and `data-target="#navbarResponsive"` work in Bootstrap
+- Add a carousel component to my portfolio
+- Also used a jumbotron
+- Became really familiar with the grid system in Bootstrap. It helps to divide the page and make different components responsive
+- Added gifs for my projects section. I was originally just going to use pictures but I felt that gifs provided a better idea of how each of my projects work
+- Also added empty links to each project on GitHub for right now
+
+**Thoughts:** Well, the portfolio page is coming along slowly but surely. I am learning a lot about HTML/CSS/and Bootstrap that I didn't quite master before. Just little tips and tricks. I think this is my favorite part of programming because it really allows me to exercise my creative half. I spent most of the day tweaking and making tiny adjustments to my website trying to get it just right. Looking forward to making another site using primarily React but in the meantime, I need to complete this one.
+
+**Link to work:** [100 Days of Code: Day 13](https://github.com/storrence88/portfolio)
