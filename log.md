@@ -193,3 +193,15 @@
 **Thoughts:** Building this portfolio was fun but tedius. It's A LOT of code for just HTML, CSS, and Bootstrap. I can see why there are frameworks for just the front end to help reduce clutter and produce results quicker. Next step will be to add the links and deploy the website to a domain! Exciting!
 
 **Link to work:** [100 Days of Code: Day 14](https://github.com/storrence88/portfolio)
+
+
+### Day 15: Wednesday, July 18th, 2018
+
+**Today's Progress**: 
+- Added some JS to my portfolio
+- Made it able to scroll to certain parts of the page when the link in the nav bar is clicked
+- Also added a few links like resume and GitHub
+
+**Thoughts:** Already thinking about how to approach this with React!
+
+**Link to work:** [100 Days of Code: Day 14](https://github.com/storrence88/portfolio)
