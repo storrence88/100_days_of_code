@@ -205,3 +205,19 @@
 **Thoughts:** Already thinking about how to approach this with React!
 
 **Link to work:** [100 Days of Code: Day 14](https://github.com/storrence88/portfolio)
+
+
+### Day 16: Thursday, July 18th, 2018
+
+**Today's Progress**: 
+- Finalized my portfolio
+- Deployed it using DreamHost service
+- Secured data and information by signing up for an SSL
+- Added a parallax scrolling effect to an image
+- Added the ability to scroll to certain sections
+- Added the ability to scroll back to the top of the page
+
+**Thoughts:** I'm pretty stoked to have something that I created from scratch up and running on the internet for anyone to see!
+
+**Link to work:** [100 Days of Code: Day 15](https://github.com/storrence88/portfolio) 
+(https://www.steventorrence.com)
