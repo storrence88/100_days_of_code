@@ -204,7 +204,7 @@
 
 **Thoughts:** Already thinking about how to approach this with React!
 
-**Link to work:** [100 Days of Code: Day 14](https://github.com/storrence88/portfolio)
+**Link to work:** [100 Days of Code: Day 15](https://github.com/storrence88/portfolio)
 
 
 ### Day 16: Thursday, July 18th, 2018
@@ -219,5 +219,17 @@
 
 **Thoughts:** I'm pretty stoked to have something that I created from scratch up and running on the internet for anyone to see!
 
-**Link to work:** [100 Days of Code: Day 15](https://github.com/storrence88/portfolio) 
-(https://www.steventorrence.com)
+**Link to work:** [100 Days of Code: Day 16](https://github.com/storrence88/portfolio) (https://steventorrence.com)
+
+
+### Day 17: Friday, July 19th, 2018
+
+**Today's Progress**: 
+- Taking it back to the MEAN stack
+- Used Node.js to create a basic server
+- Wrote it using ES6
+
+**Thoughts:** Going back and rediscovering a stack is something everyone should do at least once! It's amazing the amount of gaps there were in my knowledge the first time around. The second time around I feel like there are lightbulbs going off everwhere. It's exciting to think about where I'll be at the end of the year.
+
+**Link to work:** [100 Days of Code: Day 17](https://github.com/storrence88/node_server) 
+
