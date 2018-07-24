@@ -245,3 +245,16 @@
 
 **Link to work:** [100 Days of Code: Day 18](https://github.com/storrence88/mean_stack/tree/master/node/landing_page) 
 
+
+### Day 19: Monday, July 24th, 2018
+
+**Today's Progress**: 
+- Created a basic server using Node.js
+- Had it respond with views
+- Had it respond with stylesheets
+- Had it respond with images
+
+**Thoughts:** Going back and rediscovering a stack is something everyone should do at least once! It's amazing the amount of gaps there were in my knowledge the first time around. The second time around I feel like there are lightbulbs going off everwhere. It's exciting to think about where I'll be at the end of the year.
+
+**Link to work:** [100 Days of Code: Day 19](https://github.com/storrence88/mean_stack/tree/master/node/cars_and_cats) 
+
