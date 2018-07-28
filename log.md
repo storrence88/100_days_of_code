@@ -271,3 +271,20 @@
 
 **Link to work:** [100 Days of Code: Day 20](https://github.com/storrence88/mean_stack/tree/master/express/cars_and_cats)
 
+
+
+### Day 21: Friday, July 27th, 2018
+
+**Today's Progress**: 
+- Began review of Angular
+- Created Angular app "Hello-World"
+- Created components manually and also using the CLI
+- Created Services manually and also using the CLI
+- Property Binding
+- Style Binding
+- Two Way Binding
+
+**Thoughts:** Going back and rediscovering a stack is something everyone should do at least once! It's amazing the amount of gaps there were in my knowledge the first time around. The second time around I feel like there are lightbulbs going off everwhere. It's exciting to think about where I'll be at the end of the year.
+
+**Link to work:** [100 Days of Code: Day 21](https://github.com/storrence88/angular_hello_world)
+
